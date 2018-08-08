@@ -1,6 +1,6 @@
-# Task1
+# Sprint Planning Helper
 
-Solution of Task1 - Sprint Planning Helper
+Sprint Planning Helper
 
 ## Getting Started
 
